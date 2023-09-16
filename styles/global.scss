@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+  .gon {
+    @apply bg-[#7FFFD4];
+  }
+}
